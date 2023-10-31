@@ -4,7 +4,6 @@
 import requests as req
 
 # This KEY is dead. Generate a new one!
-# Generate and user yours. This one is dead.
 api_key = 'cur_live_aK34mQHiXdsY4iHXBugHrm8sHwybWQg6Prc5S4Xx'
 
 api_url = 'https://api.currencyapi.com/v3/latest?apikey='
