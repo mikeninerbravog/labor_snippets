@@ -25,3 +25,6 @@
 
 **s8.py:**  The truth table for XNOR gate
 
+**s9.py:**  WordClouds
+
+
