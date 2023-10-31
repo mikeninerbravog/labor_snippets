@@ -23,3 +23,5 @@
 
 **s7.py:**  Remove image Background
 
+**s8.py:**  The truth table for XNOR gate
+
