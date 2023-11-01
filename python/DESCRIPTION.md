@@ -10,4 +10,21 @@
 
 **s5.py:**  To create a countdown timer
 
+**s6.py:**  7 Ways to use _f-strings_ in Python
+<ol>
+<li>Align strings with f-strings</li>
+<li>Use f-strings with dictionary variables</li>
+<li>Use f-strings to format binary and hexadecimal numbers</li>
+<li>Use f-strings to format dates and times</li>
+<li>Use f-strings to format currency values</li>
+<li>Use f-strings with formatted strings</li>
+<li>Use f-strings to format scientific notation</li>
+</ol>
+
+**s7.py:**  Remove image Background
+
+**s8.py:**  The truth table for XNOR gate
+
+**s9.py:**  WordClouds
+
 
