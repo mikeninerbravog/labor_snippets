@@ -1,0 +1,195 @@
+
+Archive Description:
+Name        : perl-Test-Simple
+Version     : 0.98
+Release     : 243.el7
+Architecture: noarch
+Install Date: (not installed)
+Group       : Development/Libraries
+Size        : 397284
+License     : GPL+ or Artistic
+Signature   : RSA/SHA256, Fri 04 Jul 2014 01:24:50 AM -03, Key ID 24c6a8a7f4a80eb5
+Source RPM  : perl-Test-Simple-0.98-243.el7.src.rpm
+Build Date  : Mon 09 Jun 2014 09:13:33 PM -03
+Build Host  : worker1.bsys.centos.org
+Packager    : CentOS BuildSystem <http://bugs.centos.org>
+Vendor      : CentOS
+URL         : http://search.cpan.org/dist/Test-Simple
+Summary     : Basic utilities for writing tests
+Description :
+This package provides the bulk of the core testing facilities. For more
+information, see perldoc for Test::Simple, Test::More, etc.
+
+This package is the CPAN component of the dual-lifed core package Test-Simple.
+
+Archive Listing:
+/usr/share/doc/perl-Test-Simple-0.98
+/usr/share/doc/perl-Test-Simple-0.98/Changes
+/usr/share/doc/perl-Test-Simple-0.98/README
+/usr/share/doc/perl-Test-Simple-0.98/examples
+/usr/share/doc/perl-Test-Simple-0.98/examples/indent.pl
+/usr/share/doc/perl-Test-Simple-0.98/examples/subtest.t
+/usr/share/doc/perl-Test-Simple-0.98/t
+/usr/share/doc/perl-Test-Simple-0.98/t/00compile.t
+/usr/share/doc/perl-Test-Simple-0.98/t/00test_harness_check.t
+/usr/share/doc/perl-Test-Simple-0.98/t/BEGIN_require_ok.t
+/usr/share/doc/perl-Test-Simple-0.98/t/BEGIN_use_ok.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Builder
+/usr/share/doc/perl-Test-Simple-0.98/t/Builder/Builder.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Builder/carp.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Builder/create.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Builder/current_test.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Builder/current_test_without_plan.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Builder/details.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Builder/done_testing.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Builder/done_testing_double.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Builder/done_testing_plan_mismatch.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Builder/done_testing_with_no_plan.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Builder/done_testing_with_number.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Builder/done_testing_with_plan.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Builder/fork_with_new_stdout.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Builder/has_plan.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Builder/has_plan2.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Builder/is_fh.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Builder/is_passing.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Builder/maybe_regex.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Builder/no_diag.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Builder/no_ending.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Builder/no_header.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Builder/no_plan_at_all.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Builder/ok_obj.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Builder/output.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Builder/reset.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Builder/reset_outputs.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Builder/try.t
+/usr/share/doc/perl-Test-Simple-0.98/t/More.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Simple
+/usr/share/doc/perl-Test-Simple-0.98/t/Simple/load.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Tester
+/usr/share/doc/perl-Test-Simple-0.98/t/Tester/tbt_01basic.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Tester/tbt_02fhrestore.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Tester/tbt_03die.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Tester/tbt_04line_num.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Tester/tbt_05faildiag.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Tester/tbt_06errormess.t
+/usr/share/doc/perl-Test-Simple-0.98/t/Tester/tbt_07args.t
+/usr/share/doc/perl-Test-Simple-0.98/t/bad_plan.t
+/usr/share/doc/perl-Test-Simple-0.98/t/bail_out.t
+/usr/share/doc/perl-Test-Simple-0.98/t/buffer.t
+/usr/share/doc/perl-Test-Simple-0.98/t/c_flag.t
+/usr/share/doc/perl-Test-Simple-0.98/t/circular_data.t
+/usr/share/doc/perl-Test-Simple-0.98/t/cmp_ok.t
+/usr/share/doc/perl-Test-Simple-0.98/t/dependents.t
+/usr/share/doc/perl-Test-Simple-0.98/t/diag.t
+/usr/share/doc/perl-Test-Simple-0.98/t/died.t
+/usr/share/doc/perl-Test-Simple-0.98/t/dont_overwrite_die_handler.t
+/usr/share/doc/perl-Test-Simple-0.98/t/eq_set.t
+/usr/share/doc/perl-Test-Simple-0.98/t/exit.t
+/usr/share/doc/perl-Test-Simple-0.98/t/explain.t
+/usr/share/doc/perl-Test-Simple-0.98/t/extra.t
+/usr/share/doc/perl-Test-Simple-0.98/t/extra_one.t
+/usr/share/doc/perl-Test-Simple-0.98/t/fail-like.t
+/usr/share/doc/perl-Test-Simple-0.98/t/fail-more.t
+/usr/share/doc/perl-Test-Simple-0.98/t/fail.t
+/usr/share/doc/perl-Test-Simple-0.98/t/fail_one.t
+/usr/share/doc/perl-Test-Simple-0.98/t/filehandles.t
+/usr/share/doc/perl-Test-Simple-0.98/t/fork.t
+/usr/share/doc/perl-Test-Simple-0.98/t/harness_active.t
+/usr/share/doc/perl-Test-Simple-0.98/t/import.t
+/usr/share/doc/perl-Test-Simple-0.98/t/is_deeply_dne_bug.t
+/usr/share/doc/perl-Test-Simple-0.98/t/is_deeply_fail.t
+/usr/share/doc/perl-Test-Simple-0.98/t/is_deeply_with_threads.t
+/usr/share/doc/perl-Test-Simple-0.98/t/lib
+/usr/share/doc/perl-Test-Simple-0.98/t/lib/Dev
+/usr/share/doc/perl-Test-Simple-0.98/t/lib/Dev/Null.pm
+/usr/share/doc/perl-Test-Simple-0.98/t/lib/Dummy.pm
+/usr/share/doc/perl-Test-Simple-0.98/t/lib/MyOverload.pm
+/usr/share/doc/perl-Test-Simple-0.98/t/lib/NoExporter.pm
+/usr/share/doc/perl-Test-Simple-0.98/t/lib/SigDie.pm
+/usr/share/doc/perl-Test-Simple-0.98/t/lib/Test
+/usr/share/doc/perl-Test-Simple-0.98/t/lib/Test/Builder
+/usr/share/doc/perl-Test-Simple-0.98/t/lib/Test/Builder/NoOutput.pm
+/usr/share/doc/perl-Test-Simple-0.98/t/lib/Test/Simple
+/usr/share/doc/perl-Test-Simple-0.98/t/lib/Test/Simple/Catch.pm
+/usr/share/doc/perl-Test-Simple-0.98/t/lib/Test/Simple/sample_tests
+/usr/share/doc/perl-Test-Simple-0.98/t/lib/Test/Simple/sample_tests/death.plx
+/usr/share/doc/perl-Test-Simple-0.98/t/lib/Test/Simple/sample_tests/death_in_eval.plx
+/usr/share/doc/perl-Test-Simple-0.98/t/lib/Test/Simple/sample_tests/death_with_handler.plx
+/usr/share/doc/perl-Test-Simple-0.98/t/lib/Test/Simple/sample_tests/exit.plx
+/usr/share/doc/perl-Test-Simple-0.98/t/lib/Test/Simple/sample_tests/extras.plx
+/usr/share/doc/perl-Test-Simple-0.98/t/lib/Test/Simple/sample_tests/five_fail.plx
+/usr/share/doc/perl-Test-Simple-0.98/t/lib/Test/Simple/sample_tests/last_minute_death.plx
+/usr/share/doc/perl-Test-Simple-0.98/t/lib/Test/Simple/sample_tests/one_fail.plx
+/usr/share/doc/perl-Test-Simple-0.98/t/lib/Test/Simple/sample_tests/pre_plan_death.plx
+/usr/share/doc/perl-Test-Simple-0.98/t/lib/Test/Simple/sample_tests/require.plx
+/usr/share/doc/perl-Test-Simple-0.98/t/lib/Test/Simple/sample_tests/success.plx
+/usr/share/doc/perl-Test-Simple-0.98/t/lib/Test/Simple/sample_tests/too_few.plx
+/usr/share/doc/perl-Test-Simple-0.98/t/lib/Test/Simple/sample_tests/too_few_fail.plx
+/usr/share/doc/perl-Test-Simple-0.98/t/lib/Test/Simple/sample_tests/two_fail.plx
+/usr/share/doc/perl-Test-Simple-0.98/t/lib/TieOut.pm
+/usr/share/doc/perl-Test-Simple-0.98/t/missing.t
+/usr/share/doc/perl-Test-Simple-0.98/t/new_ok.t
+/usr/share/doc/perl-Test-Simple-0.98/t/no_plan.t
+/usr/share/doc/perl-Test-Simple-0.98/t/no_tests.t
+/usr/share/doc/perl-Test-Simple-0.98/t/note.t
+/usr/share/doc/perl-Test-Simple-0.98/t/overload.t
+/usr/share/doc/perl-Test-Simple-0.98/t/overload_threads.t
+/usr/share/doc/perl-Test-Simple-0.98/t/plan.t
+/usr/share/doc/perl-Test-Simple-0.98/t/plan_bad.t
+/usr/share/doc/perl-Test-Simple-0.98/t/plan_is_noplan.t
+/usr/share/doc/perl-Test-Simple-0.98/t/plan_no_plan.t
+/usr/share/doc/perl-Test-Simple-0.98/t/plan_shouldnt_import.t
+/usr/share/doc/perl-Test-Simple-0.98/t/plan_skip_all.t
+/usr/share/doc/perl-Test-Simple-0.98/t/pod-coverage.t
+/usr/share/doc/perl-Test-Simple-0.98/t/pod.t
+/usr/share/doc/perl-Test-Simple-0.98/t/require_ok.t
+/usr/share/doc/perl-Test-Simple-0.98/t/simple.t
+/usr/share/doc/perl-Test-Simple-0.98/t/skip.t
+/usr/share/doc/perl-Test-Simple-0.98/t/skipall.t
+/usr/share/doc/perl-Test-Simple-0.98/t/subtest
+/usr/share/doc/perl-Test-Simple-0.98/t/subtest/args.t
+/usr/share/doc/perl-Test-Simple-0.98/t/subtest/basic.t
+/usr/share/doc/perl-Test-Simple-0.98/t/subtest/die.t
+/usr/share/doc/perl-Test-Simple-0.98/t/subtest/do.t
+/usr/share/doc/perl-Test-Simple-0.98/t/subtest/exceptions.t
+/usr/share/doc/perl-Test-Simple-0.98/t/subtest/for_do_t.test
+/usr/share/doc/perl-Test-Simple-0.98/t/subtest/fork.t
+/usr/share/doc/perl-Test-Simple-0.98/t/subtest/implicit_done.t
+/usr/share/doc/perl-Test-Simple-0.98/t/subtest/line_numbers.t
+/usr/share/doc/perl-Test-Simple-0.98/t/subtest/plan.t
+/usr/share/doc/perl-Test-Simple-0.98/t/subtest/predicate.t
+/usr/share/doc/perl-Test-Simple-0.98/t/subtest/singleton.t
+/usr/share/doc/perl-Test-Simple-0.98/t/subtest/todo.t
+/usr/share/doc/perl-Test-Simple-0.98/t/subtest/wstat.t
+/usr/share/doc/perl-Test-Simple-0.98/t/tbm_doesnt_set_exported_to.t
+/usr/share/doc/perl-Test-Simple-0.98/t/thread_taint.t
+/usr/share/doc/perl-Test-Simple-0.98/t/threads.t
+/usr/share/doc/perl-Test-Simple-0.98/t/todo.t
+/usr/share/doc/perl-Test-Simple-0.98/t/undef.t
+/usr/share/doc/perl-Test-Simple-0.98/t/use_ok.t
+/usr/share/doc/perl-Test-Simple-0.98/t/useing.t
+/usr/share/doc/perl-Test-Simple-0.98/t/utf8.t
+/usr/share/doc/perl-Test-Simple-0.98/t/versions.t
+/usr/share/man/man3/Test::Builder.3pm.gz
+/usr/share/man/man3/Test::Builder::IO::Scalar.3pm.gz
+/usr/share/man/man3/Test::Builder::Module.3pm.gz
+/usr/share/man/man3/Test::Builder::Tester.3pm.gz
+/usr/share/man/man3/Test::Builder::Tester::Color.3pm.gz
+/usr/share/man/man3/Test::More.3pm.gz
+/usr/share/man/man3/Test::Simple.3pm.gz
+/usr/share/man/man3/Test::Tutorial.3pm.gz
+/usr/share/perl5/vendor_perl/Test
+/usr/share/perl5/vendor_perl/Test/Builder
+/usr/share/perl5/vendor_perl/Test/Builder.pm
+/usr/share/perl5/vendor_perl/Test/Builder/IO
+/usr/share/perl5/vendor_perl/Test/Builder/IO/Scalar.pm
+/usr/share/perl5/vendor_perl/Test/Builder/Module.pm
+/usr/share/perl5/vendor_perl/Test/Builder/Tester
+/usr/share/perl5/vendor_perl/Test/Builder/Tester.pm
+/usr/share/perl5/vendor_perl/Test/Builder/Tester/Color.pm
+/usr/share/perl5/vendor_perl/Test/More.pm
+/usr/share/perl5/vendor_perl/Test/Simple.pm
+/usr/share/perl5/vendor_perl/Test/Tutorial.pod
+
+perl-test-simple.rpm cannot be installed.
+
