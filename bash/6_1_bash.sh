@@ -1,5 +1,10 @@
 #!/bin/bash
 
+<<<<<<< HEAD
+# exit / exit status
+
+=======
+>>>>>>> origin/neuma
 echo hello
 echo $?    # Exit status 0 returned because command executed successfully.
 
