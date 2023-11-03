@@ -7,18 +7,3 @@
 **3_3_bash:** Running a loop in the background
 
 **3_4_bash:** Backup of all files changed in last day
-
-**4_1_bash:** Variable assignment and substitution
-
-**4_2_bash:** Plain Variable Assignment
-
-**5_3_bash:** Detecting key-presses
-
-**6_1_bash:** exit / exit status
-
-**11_1_bash:** Simple for loops
-
-**11_17_bash:** while loop with multiple conditions
-
-**11_26_bash:** Creating menus using case
-
