@@ -6,7 +6,9 @@ do
   echo $planet  # Each planet on a separate line.
 done
 
-echo; echo
+echo;
+
+sleep 4;
 
 for planet in "Mercury Venus Earth Mars Jupiter Saturn Uranus Neptune Pluto"
     # All planets on same line.

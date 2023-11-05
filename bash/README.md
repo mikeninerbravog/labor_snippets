@@ -7,3 +7,5 @@
 **3_3_bash:** Running a loop in the background
 
 **3_4_bash:** Backup of all files changed in last day
+
+**5_1_bash:** Echoing Weird Variables
