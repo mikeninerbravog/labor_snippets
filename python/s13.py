@@ -1,3 +1,6 @@
+# Printing coloured output in Python
+# Must install with: pip install colorama
+
 from colorama import Fore
 
 print(Fore.RED + "In Python, everything is an object. In bash/shell, a text stream")
